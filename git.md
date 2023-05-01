@@ -1,1 +1,6 @@
 ДЗ ДЕЛАЕМ ТУТ!
+123 
+git remote add origin https://github.com/specxpilot/dz1.git
+git branch -M main
+git push -u origin main
+321

@@ -1,0 +1,15 @@
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\003_Console.csproj.AssemblyReference.cache
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\003_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\003_Console.AssemblyInfoInputs.cache
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\003_Console.AssemblyInfo.cs
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\003_Console.csproj.CoreCompileInputs.cache
+C:\Users\specx\git\DZ\003_Console\bin\Debug\net6.0\003_Console.exe
+C:\Users\specx\git\DZ\003_Console\bin\Debug\net6.0\003_Console.deps.json
+C:\Users\specx\git\DZ\003_Console\bin\Debug\net6.0\003_Console.runtimeconfig.json
+C:\Users\specx\git\DZ\003_Console\bin\Debug\net6.0\003_Console.dll
+C:\Users\specx\git\DZ\003_Console\bin\Debug\net6.0\003_Console.pdb
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\003_Console.dll
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\refint\003_Console.dll
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\003_Console.pdb
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\003_Console.genruntimeconfig.cache
+C:\Users\specx\git\DZ\003_Console\obj\Debug\net6.0\ref\003_Console.dll
